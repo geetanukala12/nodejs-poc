@@ -1,0 +1,20 @@
+{
+  "data":[{
+    "name":"geeta",
+    "email":"geeta@gmail.com",
+    "mobile":"9988989888",
+    "city":"hyderabad"
+  },
+  {
+    "name":"test",
+    "email":"test@gmail.com",
+    "mobile":"9988778878",
+    "city":"hyderabad"
+  },
+  {
+    "name":"xxx",
+    "email":"xxx@gmail.com",
+    "mobile":"9988778878",
+    "city":"hyderabad"
+  }]
+}
